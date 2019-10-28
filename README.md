@@ -7,7 +7,7 @@ Depois disso, utilizar o NPM START
  ## Requisitos BackEnd!
  Configurar a string de conexão do bando de dados em :DistanciaAmigos\Data\MyContext.cs
  
- Ir até a raiz do projeto e utilizar o comando "dotnet ef database update --context MyContext" no CMD para criar o banco de dados
+ Ir até "repos\DistanciaAmigos\DistanciaAmigos" do projeto e utilizar o comando "dotnet ef database update --context MyContext" no CMD para criar o banco de dados
  e a tabela necessaria.
  
  Depois disso, basta executar o projeto no visual studio.
